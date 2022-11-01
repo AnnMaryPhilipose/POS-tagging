@@ -1,2 +1,2 @@
 # POS-tagging
-Viterbi algorithm based POS tagger
+POS tagger based on viterbi algorithm
