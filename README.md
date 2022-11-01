@@ -1,2 +1,2 @@
 # POS-tagging
-NLP project
+Viterbi algorithm based POS tagger
